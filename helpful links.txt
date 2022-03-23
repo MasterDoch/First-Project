@@ -1,0 +1,6 @@
+https://devdocs.io 
+  Documentation
+https://web.archive.org
+  Internet Archive
+https://developer.mozilla.org/en-US/
+  Second Documentation
